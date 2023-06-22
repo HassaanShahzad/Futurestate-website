@@ -71,10 +71,11 @@ h6 {
 }
 .abc8 {
 	margin-top: 3px;
+	cursor: pointer;
 }
 .abc9 {
 	color: white;
-	font-size: 15px
+	font-size: 10px
 }
 .abc10 {
 	color: rgb(173, 173, 173);
@@ -96,12 +97,21 @@ h6 {
 }
 .abc15 {
 	padding-top: 10px;
+	cursor: pointer;
+	
 }
 .abc16 {
 	padding-left: 5px;
+	cursor: pointer;
 }
 .abc17 {
-	padding-top: 10px;
+	padding-top: 5px;
+	height: 50x !important;
+	width: 150px;
+	cursor: pointer;
+}
+.abc20 {
+	cursor: pointer;
 }
 .dropdown-width {
 	width: ;
@@ -121,6 +131,7 @@ font-size: 21px;
 }
 .size {
 	height: 19px;
+	cursor: pointer;
 }
 .abc1 {
 	color: white;
