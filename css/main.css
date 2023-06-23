@@ -43,6 +43,9 @@ body {
 	background-color: rgb(2,7,39) !important;
 	z-index: 1;
 }
+html {
+	scroll-behavior: smooth;
+  }
 .height {
 	height: 300px;
 }
@@ -54,6 +57,9 @@ body {
 }
 .height3 {
 	height: 50px;;
+}
+.height4 {
+height: 200px;
 }
 .pointer {
 	height: 35px;
@@ -113,6 +119,134 @@ h6 {
 .abc20 {
 	cursor: pointer;
 }
+.abc21 {
+	z-index: 1;
+margin-top: -500px !important;
+}
+.abc22 {
+z-index: 0;
+}
+.abc23 {
+	border: 1px solid gray;
+	padding: 20px;
+border-radius: 9px;
+
+}
+.abc24 {
+	color: white;
+	text-align: center;
+	
+}
+.abc25 {
+	border: 1px solid rgb(173, 173, 173) ;
+	padding: 10px;
+
+}
+.abc27 {
+	color: white;
+
+}
+.abc26 {
+	color: rgb(50,147,182);
+	
+}
+.abc28 {
+	padding-top: 20px;
+	border: 1px solid rgb(173, 173, 173) ;
+}
+.abc29 {
+	padding-top: 20px
+}
+.abc30 {
+	color: white;
+	font-size: 11px;
+	font-weight: bold;
+	
+}
+.abc31 {
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+.abc32 {
+	z-index: 1;
+margin-top: -400px !important;
+}
+.abc33 {
+	color: white;
+	font-size: 19px;
+	
+	
+}
+.abc34 {
+	border: 1px solid rgb(1, 12, 56) ;
+	padding: 10px;
+	
+
+}
+
+.abc35 {
+	color: rgb(196, 196, 196);
+	margin-left: 29px;
+}
+.abc36 {
+	padding-left:129px;
+} 
+.abc37 {
+	margin-top: 20px;
+	
+}
+.abc38 {
+	text-align: center;
+	color: rgb(50,147,182);
+	margin-top: 50px;
+}
+.abc39 {
+	text-align: center;
+	color: white;
+	cursor: pointer;
+}
+.abc41 {
+	color: rgb(50,147,182);
+}
+.abc42 {
+	color: white;
+	cursor: pointer;
+}
+
+.abc43 {
+	margin: 10px;
+}
+.abc44 {
+	padding-top: 29px;
+	padding-left: 75px;
+
+}
+.abc45 {
+	padding-top: 20px;
+	color: rgb(50,147,182);
+}
+.abc46 {
+	text-align: center;
+	padding-left: 20px;
+}
+.abc47 {
+height: 40px;
+}
+.abc48 {
+	color: white;
+	padding-right: 45px;
+	text-align: center;
+}
+.abc49 {
+	margin-left: 20px;
+	padding-right: 10px;
+}
+@media (min-width: 320px) and (max-width: 400px){
+.abc40 {
+	display: none;
+}
+}
+
 .dropdown-width {
 	width: ;
 }
@@ -121,6 +255,7 @@ h6 {
 	text-underline-position: auto;
 
 }
+
 /* preloader styles */
 .bg-color {
 	color: rgb(2,7,39) !important;
