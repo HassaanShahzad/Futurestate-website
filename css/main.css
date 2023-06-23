@@ -247,7 +247,12 @@ height: 40px;
 	display: block;
 }
 }
-
+@media (min-width: 400px) and (max-width: 900px){
+	.abc40 {
+		display: none !important;
+		display: block;
+	}
+	}
 .dropdown-width {
 	width: ;
 }
