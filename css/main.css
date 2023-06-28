@@ -32,7 +32,9 @@ Version: 		1.0.0
 /*------------------------------------------------------------------
 1. General styles and resets
 -------------------------------------------------------------------*/
-
+* {
+	font-family: 'Inter' !important;
+}
 .content-links,.filter-nav,.social-network,.content-list,.pricing-box-v1 .plan-features ul,.icon-lists ul,.nav-wrap ul.side-nav,.nav-wrap .header-links ul,.white-overlay .nav-wrap ul.side-nav,.white-overlay .nav-wrap .header-links ul,.tag-block ul,.blog-lists .blog-list-items,.instagram-widget ul,.footer-nav ul {
 	list-style: none;
 	margin: 0;
